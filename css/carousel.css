@@ -53,25 +53,21 @@ img.vertical4 {
     position: static;
     margin-top: 20px;
   }
-  /*
+  
   .carousel-control-prev-icon {
-    width: 60px;
-    height: auto;
     margin-bottom: 100px;
     margin-right: auto;
     fill: #ffc1a6;
-    background-image: url("img/arrowLeft.svg");
+   /* background-image: url("img/arrowLeft.svg"); */
   }
   
   .carousel-control-next-icon {
-    width: 60px;
-    height: auto;
     margin-bottom: 100px;
     margin-left: auto;
     fill: #ffc1a6;
-    background-image: url("img/arrowRight.svg");
+    /*background-image: url("img/arrowRight.svg"); */
   }
-  */
+  
 
   #custCarousel .carousel-indicators>li {
     height: 100%;
