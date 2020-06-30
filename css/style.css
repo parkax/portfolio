@@ -131,15 +131,15 @@ h3 {
  color: #d7ff01;
   /* background-image: url(images/nav/miscgradient.gif); 
   background-color: #d7ff01;
-  background-repeat: no-repeat;*/
-  background-position: center; 
+  background-repeat: no-repeat;
+  background-position: center; */
 }
 #navmisc:focus {
 	 color: #d7ff01;
   /* background-image: url(images/nav/miscgradient.gif); 
   background-color: #d7ff01;
-  background-repeat: no-repeat;*/
-  background-position: center; 
+  background-repeat: no-repeat;
+  background-position: center; */
 }
 
 /* Current WORK link */
@@ -153,8 +153,8 @@ h3 {
  color: #d7ff01;
   /* background-image: url(images/nav/miscgradient.gif); 
   background-color: #d7ff01;
-  background-repeat: no-repeat;*/
-  background-position: center; 
+  background-repeat: no-repeat;
+  background-position: center; */
 }
 .currentabout {
   color: #000;
