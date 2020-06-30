@@ -128,14 +128,16 @@ h3 {
   background-position: center;
 }
 #navmisc:hover {
- background-image: url(images/nav/miscgradient.gif); 
-  /* background-color: #d7ff01;
+ color: #d7ff01;
+  /* background-image: url(images/nav/miscgradient.gif); 
+  background-color: #d7ff01;
   background-repeat: no-repeat;*/
   background-position: center; 
 }
 #navmisc:focus {
- background-image: url(images/nav/miscgradient.gif); 
-  /* background-color: #d7ff01;
+	 color: #d7ff01;
+  /* background-image: url(images/nav/miscgradient.gif); 
+  background-color: #d7ff01;
   background-repeat: no-repeat;*/
   background-position: center; 
 }
@@ -148,10 +150,10 @@ h3 {
   background-position: center;
 }
 .currentmisc {
-  color: #000;
-  background-image: url(images/nav/miscgradient.gif); 
-  /* background-color: #d7ff01;
-  background-repeat: no-repeat; */
+ color: #d7ff01;
+  /* background-image: url(images/nav/miscgradient.gif); 
+  background-color: #d7ff01;
+  background-repeat: no-repeat;*/
   background-position: center; 
 }
 .currentabout {
