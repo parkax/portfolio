@@ -108,7 +108,7 @@ h3 {
 }
 /* NAV HOVER Styles */
 #navwork:hover {
-  background-image: url(/images/nav/workgradient.gif);
+  background-image: url(images/nav/workgradient.gif);
   background-repeat: no-repeat;
   background-position: center;
 }
