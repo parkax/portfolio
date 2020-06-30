@@ -55,17 +55,17 @@ img.vertical4 {
   }
   
   .carousel-control-prev-icon {
-   /* margin-bottom: 100px;
+    margin-bottom: 100px;
     margin-right: auto;
     fill: #ffc1a6;
-    background-image: url("img/arrowLeft.svg"); */
+   /* background-image: url("img/arrowLeft.svg"); */
   }
   
   .carousel-control-next-icon {
     margin-bottom: 100px;
     margin-left: auto;
-    /* fill: #ffc1a6;
-    background-image: url("img/arrowRight.svg"); */
+    fill: #ffc1a6;
+    /* background-image: url("img/arrowRight.svg"); */
   }
   
 
