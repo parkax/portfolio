@@ -53,7 +53,7 @@ img.vertical4 {
     position: static;
     margin-top: 20px;
   }
-  
+  /*
   .carousel-control-prev-icon {
     width: 60px;
     height: auto;
@@ -71,7 +71,7 @@ img.vertical4 {
     fill: #ffc1a6;
     background-image: url("img/arrowRight.svg");
   }
-  
+  */
 
   #custCarousel .carousel-indicators>li {
     height: 100%;
