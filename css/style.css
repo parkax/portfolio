@@ -457,7 +457,7 @@ div.arrowbox2 {
 
 /* xs NAV */
 @media (max-width: 399px) {
-	#navwork, #navabout, #navmisc {
+	#navwork, #navabout {
     width: 50%;
     margin: 0;
     padding: 10px;
