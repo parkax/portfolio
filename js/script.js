@@ -6,21 +6,21 @@ function goBack() {
 
 $(document).ready(function() {
     $( "#hbo" ).mouseover(function(){
-        $(this).attr("src", "/images/work/grid/hover/1HBO.jpg");
+        $(this).attr("src", "images/work/grid/hover/1HBO.jpg");
     });
 
     $( "#hbo" ).mouseout(function(){
-        $(this).attr("src", "/images/work/grid/transparent/350x225_HBO.png");
+        $(this).attr("src", "images/work/grid/transparent/350x225_HBO.png");
     });
 });
 
 $(document).ready(function() {
     $( "#milk" ).mouseover(function(){
-        $(this).attr("src", "/images/work/grid/hover/2Milk.jpg");
+        $(this).attr("src", "./images/work/grid/hover/2Milk.jpg");
     });
 
     $( "#milk" ).mouseout(function(){
-        $(this).attr("src", "/images/work/grid/transparent/350x225_Milk.png");
+        $(this).attr("src", "./images/work/grid/transparent/350x225_Milk.png");
     });
 });
 
