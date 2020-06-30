@@ -1,0 +1,164 @@
+/* CAROUSEL */
+
+body {
+    max-width: 1300px;
+    margin-right: auto;
+    margin-left: auto;
+    align-items: center;
+    justify-content: center;
+  }
+
+
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+  }
+.carousel-inner .vertical1 {
+    width: 600px;
+    height: 100%;
+}
+.carousel-inner .vertical2 {
+    width: 650px;
+    height: 100%;
+}
+.carousel-inner .gif {
+  width: 450px;
+  height: 100%;
+}
+
+.carousel-inner .vertical3 {
+  width: 700px;
+  height: 100%;
+}
+img.vertical4 {
+  width: 950px;
+  height: 100%;
+}
+  #custCarousel .carousel-indicators {
+    position: static;
+    margin-top: 20px;
+  }
+  
+  #custCarousel2 .carousel-indicators {
+    position: static;
+    margin-top: 20px;
+  }
+
+  #custCarousel3 .carousel-indicators {
+    position: static;
+    margin-top: 20px;
+  }
+  
+  #custCarousel4 .carousel-indicators {
+    position: static;
+    margin-top: 20px;
+  }
+  
+  .carousel-control-prev-icon {
+    margin-bottom: 100px;
+    margin-right: auto;
+    fill: #ffc1a6;
+    background-image: url("/img/arrowL.svg");
+  }
+  
+  .carousel-control-next-icon {
+    margin-bottom: 100px;
+    margin-left: auto;
+    fill: #ffc1a6;
+    background-image: url("/img/arrowR.svg");
+  }
+  
+
+  #custCarousel .carousel-indicators>li {
+    height: 100%;
+  }
+  
+  #custCarousel2 .carousel-indicators>li {
+    height: 100%;
+  }
+  
+  #custCarousel3 .carousel-indicators>li {
+    height: 100%;
+  }
+  
+  #custCarousel4 .carousel-indicators>li {
+    height: 100%;
+  }
+
+  #tnborder {
+    margin-top: 20px;
+    width: 138px;
+    height: 105px;
+    border: 1px solid #ffc1a6;
+    border-radius: 0;
+  }
+  
+  #tnborder2 {
+    margin-top: 20px;
+    width: 160px;
+    height: 105px;
+    border: 1px solid #ffc1a6;
+    border-radius: 0;
+
+  }
+
+
+  #custCarousel .carousel-indicators li img {
+    display: block;
+    opacity: 0.5;
+  }
+  
+  #custCarousel .carousel-indicators li.active img {
+    opacity: 1;
+  }
+  
+  #custCarousel .carousel-indicators li:hover img {
+    opacity: 0.85;
+  }
+  
+  #custCarousel2 .carousel-indicators li img {
+    display: block;
+    opacity: 0.5;
+  }
+  
+  #custCarousel2 .carousel-indicators li.active img {
+    opacity: 1;
+  }
+  
+  #custCarousel2 .carousel-indicators li:hover img {
+    opacity: 0.85;
+  }
+  
+  #custCarousel3 .carousel-indicators li img {
+    display: block;
+    opacity: 0.5;
+  }
+  
+  #custCarousel3 .carousel-indicators li.active img {
+    opacity: 1;
+  }
+  
+  #custCarousel3 .carousel-indicators li:hover img {
+    opacity: 0.85;
+  }
+  
+  #custCarousel4 .carousel-indicators li img {
+    display: block;
+    opacity: 0.5;
+  }
+  
+  #custCarousel4 .carousel-indicators li.active img {
+    opacity: 1;
+  }
+  
+  #custCarousel4 .carousel-indicators li:hover img {
+    opacity: 0.85;
+  }
+
+  .carousel-item img {
+    width: 80%;
+  }
+  
+
+
+  
