@@ -55,6 +55,8 @@ img.vertical4 {
   }
   
   .carousel-control-prev-icon {
+    width: 60px;
+    height: auto;
     margin-bottom: 100px;
     margin-right: auto;
     fill: #ffc1a6;
@@ -62,6 +64,8 @@ img.vertical4 {
   }
   
   .carousel-control-next-icon {
+    width: 60px;
+    height: auto;
     margin-bottom: 100px;
     margin-left: auto;
     fill: #ffc1a6;
