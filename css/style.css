@@ -113,27 +113,27 @@ h3 {
   background-position: center;
 }
 #navwork:focus {
-  background-image: url(/images/nav/workgradient.gif);
+  background-image: url(images/nav/workgradient.gif);
   background-repeat: no-repeat;
   background-position: center;
 }
 #navabout:hover {
-  background-image: url(/images/nav/aboutgradient.gif);
+  background-image: url(images/nav/aboutgradient.gif);
   background-repeat: no-repeat;
   background-position: center;
 }
 #navabout:focus {
-  background-image: url(/images/nav/aboutgradient.gif);
+  background-image: url(images/nav/aboutgradient.gif);
   background-repeat: no-repeat;
   background-position: center;
 }
 #navmisc:hover {
-  background-image: url(/images/nav/miscgradient.jpg);
+  background-image: url(images/nav/miscgradient.jpg);
   background-repeat: no-repeat;
   background-position: center;
 }
 #navmisc:focus {
-  background-image: url(/images/nav/miscgradient.jpg);
+  background-image: url(images/nav/miscgradient.jpg);
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -141,19 +141,19 @@ h3 {
 /* Current WORK link */
 .currentwork {
   color: #000;
-  background-image: url(/images/nav/workgradient.gif);
+  background-image: url(images/nav/workgradient.gif);
   background-repeat: no-repeat;
   background-position: center;
 }
 .currentmisc {
   color: #000;
-  background-image: url(/images/nav/miscgradient.jpg);
+  background-image: url(images/nav/miscgradient.jpg);
   background-repeat: no-repeat;
   background-position: center;
 }
 .currentabout {
   color: #000;
-  background-image: url(/images/nav/aboutgradient.gif);
+  background-image: url(images/nav/aboutgradient.gif);
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -168,7 +168,7 @@ h3 {
 .gradient {
   position: relative;
   height: 700px;
-  background-image: url(/images/contact/gradient.gif);
+  background-image: url(images/contact/gradient.gif);
   background-repeat: no-repeat;
   background-position: center;
 }
