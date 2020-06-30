@@ -6061,7 +6061,7 @@ a.badge:focus {
 
 .carousel-control:hover,
 .carousel-control:focus {
-  color: #ffc1a6;
+  color: #ffffff;
   text-decoration: none;
   opacity: 0.9;
   filter: alpha(opacity=90);
