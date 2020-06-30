@@ -64,7 +64,7 @@ img.vertical4 {
   .carousel-control-next-icon {
     margin-bottom: 100px;
     margin-left: auto;
-    fill: #ffc1a6;
+    /* fill: #ffc1a6;*/
     background-image: url("img/arrowRight.png"); 
   }
   
