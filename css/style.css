@@ -129,15 +129,15 @@ h3 {
 }
 #navmisc:hover {
   background-color: #d7ff01;
-  /* background-image: url(images/nav/miscgradient.gif); */
+  /* background-image: url(images/nav/miscgradient.gif);
   background-repeat: no-repeat;
-  background-position: center;
+  background-position: center; */
 }
 #navmisc:focus {
  background-color: #d7ff01;
- /* background-image: url(images/nav/miscgradient.gif); */
+ /* background-image: url(images/nav/miscgradient.gif); 
   background-repeat: no-repeat;
-  background-position: center;
+  background-position: center; */
 }
 
 /* Current WORK link */
@@ -150,9 +150,9 @@ h3 {
 .currentmisc {
   color: #000;
   background-color: #d7ff01;
- /* background-image: url(images/nav/miscgradient1.jpg); */
+ /* background-image: url(images/nav/miscgradient1.jpg);
   background-repeat: no-repeat;
-  background-position: center;
+  background-position: center; */
 }
 .currentabout {
   color: #000;
