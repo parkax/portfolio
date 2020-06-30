@@ -58,14 +58,14 @@ img.vertical4 {
     margin-bottom: 100px;
     margin-right: auto;
     fill: #ffc1a6;
-    background-image: url("/img/arrowL.svg");
+    background-image: url("img/arrowL.svg");
   }
   
   .carousel-control-next-icon {
     margin-bottom: 100px;
     margin-left: auto;
     fill: #ffc1a6;
-    background-image: url("/img/arrowR.svg");
+    background-image: url("img/arrowR.svg");
   }
   
 
