@@ -128,12 +128,12 @@ h3 {
   background-position: center;
 }
 #navmisc:hover {
-  background-image: url(images/nav/miscgradient1.jpg);
+  background-image: url(images/nav/miscgradient.gif));
   background-repeat: no-repeat;
   background-position: center;
 }
 #navmisc:focus {
-  background-image: url(images/nav/miscgradient1.jpg);
+  background-image: url(images/nav/miscgradient.gif);
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -457,7 +457,7 @@ div.arrowbox2 {
 
 /* xs NAV */
 @media (max-width: 399px) {
-	#navwork, #navabout {
+	#navwork, #navabout, #navmisc {
     width: 50%;
     margin: 0;
     padding: 10px;
