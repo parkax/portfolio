@@ -44,17 +44,17 @@ img {
 .designer {
   color: #04013a;
   font-family: 'DM Mono', monospace;
-  font-size: 1.5em;
+  font-size: 1.3em;
   font-weight: 400;
-  line-height: 1.3em;
+  line-height: 1.2em;
   text-align: left;
 }
 .workdesc {
   color: #1100ff;
   font-family: 'DM Mono', monospace;
-  font-size: 1.2em;
+  font-size: 1.1em;
   font-weight: 300;
-  line-height: 1.3em;
+  line-height: 1.2em;
   text-align: left;
   margin-top: -20px;
   margin-bottom: 40px;
