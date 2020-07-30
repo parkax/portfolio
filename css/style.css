@@ -45,7 +45,7 @@ img {
   color: #04013a;
   font-family: 'DM Mono', monospace;
   font-size: 1.5em;
-  font-weight: 500;
+  font-weight: 900;
   line-height: 1.3em;
   text-align: left;
 }
@@ -108,57 +108,52 @@ h3 {
 }
 /* NAV HOVER Styles */
 #navwork:hover {
-  background-image: url(images/nav/workgradient.gif);
+  background-image: url(/images/nav/workgradient.gif);
   background-repeat: no-repeat;
   background-position: center;
 }
 #navwork:focus {
-  background-image: url(images/nav/workgradient.gif);
+  background-image: url(/images/nav/workgradient.gif);
   background-repeat: no-repeat;
   background-position: center;
 }
 #navabout:hover {
-  background-image: url(images/nav/aboutgradient.gif);
+  background-image: url(/images/nav/aboutgradient.gif);
   background-repeat: no-repeat;
   background-position: center;
 }
 #navabout:focus {
-  background-image: url(images/nav/aboutgradient.gif);
+  background-image: url(/images/nav/aboutgradient.gif);
   background-repeat: no-repeat;
   background-position: center;
 }
 #navmisc:hover {
- color: #d7ff01;
-  /* background-image: url(images/nav/miscgradient.gif); 
-  background-color: #d7ff01;
+  background-image: url(/images/nav/miscgradient.jpg);
   background-repeat: no-repeat;
-  background-position: center; */
+  background-position: center;
 }
 #navmisc:focus {
-	 color: #d7ff01;
-  /* background-image: url(images/nav/miscgradient.gif); 
-  background-color: #d7ff01;
+  background-image: url(/images/nav/miscgradient.jpg);
   background-repeat: no-repeat;
-  background-position: center; */
+  background-position: center;
 }
 
 /* Current WORK link */
 .currentwork {
   color: #000;
-  background-image: url(images/nav/workgradient.gif);
+  background-image: url(/images/nav/workgradient.gif);
   background-repeat: no-repeat;
   background-position: center;
 }
 .currentmisc {
- color: #d7ff01;
-  /* background-image: url(images/nav/miscgradient.gif); 
-  background-color: #d7ff01;
+  color: #000;
+  background-image: url(/images/nav/miscgradient.jpg);
   background-repeat: no-repeat;
-  background-position: center; */
+  background-position: center;
 }
 .currentabout {
   color: #000;
-  background-image: url(images/nav/aboutgradient.gif);
+  background-image: url(/images/nav/aboutgradient.gif);
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -173,7 +168,7 @@ h3 {
 .gradient {
   position: relative;
   height: 700px;
-  background-image: url(images/contact/gradient.gif);
+  background-image: url(/images/contact/gradient.gif);
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -246,7 +241,7 @@ div.backtop {
 .client-header {
   display: flex;
   height: 50px;
-  background-color: #f1f1f1;
+  /* background-color: #f1f1f1; */
   align-items: center;
   justify-content: center;
 }
@@ -254,38 +249,42 @@ div.backtop {
   position: absolute;
   font-family: 'DM Mono', monospace;
   font-weight: 500;
-  font-size: 25px;
+  font-size: 20px;
   color: #1100ff;
-  margin-top: 1px;
+  margin: 3px 0 2px 0;
 }
 
 .project-text {
+  max-width: 800px;
   margin: 30px 0 20px 0;
   font-family: 'DM Mono', monospace;
   font-weight: 400;
-  font-size: 16px;
-  color: #1ac3ce;
+  font-size: 14px;
+  color: #000000;
+  text-align: center;
+  text-align-last: left;
 }
 
 .role {
   margin: 0 0 20px 0;
   font-family: 'DM Mono', monospace;
   font-weight: 400;
-  font-size: 16px;
+  font-size: 14px;
   color: #000000;
+  text-align: left;
+  text-align-last: left;
 }
 
 p.body-copy {
-  max-width: 950px;
-  margin: auto;
+  max-width: 500px;
   text-align: auto;
   width: auto;
   font-family: 'DM Mono', monospace;
   font-weight: 300;
-  font-size: 13px;
-  color: #828282;
-  text-align: center;
-  text-align-last: center;
+  font-size: 10.5px;
+  color: #000000;
+  text-align: left;
+  text-align-last: left;
 }
 
 .client-desc {
@@ -293,27 +292,28 @@ p.body-copy {
   font-size: 12px;
   font-weight: 300;
   color: #1100ff;
-  background-color: #e4e4e4;
+  background-color: rgb(243, 243, 243);
 }
 .italic {
   font-style: italic;
 }
 
 .category {
-  color: #adb2ff;
-  margin: 30px;
+  color: #c1c1ce;
+  margin: 30px 30px 10px 0;
   font-family: 'DM Mono', monospace;
   font-size: 15px;
-  font-style: italic;
-  font-weight: 500; 
+  font-weight: 300; 
+  text-align: left;
+  text-align-last: left;
 }
 
 
 hr.category {
-  border-color: #f1ffca;
-  margin: -28px auto 35px auto;
-  width: 130px;
-  border-width: 4px;
+  border-color: #cecece;
+  margin: 0 0 40px 0;
+  width: 300px;
+  border-width: 0px;
 }
 
 hr.project-divider {
