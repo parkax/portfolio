@@ -4,11 +4,11 @@ function goBack() {
 
 $(document).ready(function() {
     $( "#az" ).mouseover(function(){
-        $(this).attr("src", "/images/work/grid/hover/0AZ.jpg");
+        $(this).attr("src", "./images/work/grid/hover/0AZ.jpg");
     });
 
     $( "#az" ).mouseout(function(){
-        $(this).attr("src", "/images/work/grid/transparent/350x225_AZ.png");
+        $(this).attr("src", "./images/work/grid/transparent/350x225_AZ.png");
     });
 }); 
  
