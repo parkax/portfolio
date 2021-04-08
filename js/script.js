@@ -7,7 +7,7 @@ $(document).ready(function() {
         $(this).attr("src", "/images/work/grid/hover/ComingSoon.png");
     });
 
-    $( "#hbo" ).mouseout(function(){
+    $( "#viacomcbs" ).mouseout(function(){
         $(this).attr("src", "/images/work/grid/transparent/350x225_ViacomCBS.png");
     });
 });
