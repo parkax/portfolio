@@ -4,11 +4,11 @@ function goBack() {
 
 $(document).ready(function() {
     $( "#viacomcbs" ).mouseover(function(){
-        $(this).attr("src", "/images/work/grid/hover/ComingSoon.png");
+        $(this).attr("src", "./images/work/grid/hover/ComingSoon.png");
     });
 
     $( "#viacomcbs" ).mouseout(function(){
-        $(this).attr("src", "/images/work/grid/transparent/350x225_ViacomCBS.png");
+        $(this).attr("src", "./images/work/grid/transparent/350x225_ViacomCBS.png");
     });
 });
 
