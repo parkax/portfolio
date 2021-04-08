@@ -3,6 +3,16 @@ function goBack() {
   }
 
 $(document).ready(function() {
+    $( "#viacomcbs" ).mouseover(function(){
+        $(this).attr("src", "/images/work/grid/hover/ComingSoon.png");
+    });
+
+    $( "#hbo" ).mouseout(function(){
+        $(this).attr("src", "/images/work/grid/transparent/350x225_ViacomCBS.png");
+    });
+});
+
+$(document).ready(function() {
     $( "#az" ).mouseover(function(){
         $(this).attr("src", "./images/work/grid/hover/0AZ.jpg");
     });
